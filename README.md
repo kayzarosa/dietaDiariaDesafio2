@@ -31,10 +31,13 @@ Instale todas as dependências do projeto com o comando abaixo:
 Docker
 
 <br />
+
 Docker compose
 
 <br />
+
 Python
 
 <br />
+
 Feito com ♥ by Kayza :wave:
